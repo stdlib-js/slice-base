@@ -42,13 +42,13 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import ns from 'https://cdn.jsdelivr.net/gh/stdlib-js/slice-base@deno/mod.js';
+import ns from 'https://cdn.jsdelivr.net/gh/stdlib-js/slice-base@v0.0.1-deno/mod.js';
 ```
 
 You can also import the following named exports from the package:
 
 ```javascript
-import { normalizeMultiSlice, normalizeSlice, seq2multislice, seq2slice, slice2seq, sliceLength, sliceShape, str2multislice, str2slice } from 'https://cdn.jsdelivr.net/gh/stdlib-js/slice-base@deno/mod.js';
+import { normalizeMultiSlice, normalizeSlice, seq2multislice, seq2slice, slice2seq, sliceLength, sliceShape, str2multislice, str2slice } from 'https://cdn.jsdelivr.net/gh/stdlib-js/slice-base@v0.0.1-deno/mod.js';
 ```
 
 #### ns
@@ -80,7 +80,7 @@ The namespace contains the following:
 
 ```javascript
 import objectKeys from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-keys@deno/mod.js';
-import ns from 'https://cdn.jsdelivr.net/gh/stdlib-js/slice-base@deno/mod.js';
+import ns from 'https://cdn.jsdelivr.net/gh/stdlib-js/slice-base@v0.0.1-deno/mod.js';
 
 console.log( objectKeys( ns ) );
 ```
