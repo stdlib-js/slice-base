@@ -42,13 +42,13 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import ns from 'https://cdn.jsdelivr.net/gh/stdlib-js/slice-base@esm/index.mjs';
+import ns from 'https://cdn.jsdelivr.net/gh/stdlib-js/slice-base@v0.0.1-esm/index.mjs';
 ```
 
 You can also import the following named exports from the package:
 
 ```javascript
-import { normalizeMultiSlice, normalizeSlice, seq2multislice, seq2slice, slice2seq, sliceLength, sliceShape, str2multislice, str2slice } from 'https://cdn.jsdelivr.net/gh/stdlib-js/slice-base@esm/index.mjs';
+import { normalizeMultiSlice, normalizeSlice, seq2multislice, seq2slice, slice2seq, sliceLength, sliceShape, str2multislice, str2slice } from 'https://cdn.jsdelivr.net/gh/stdlib-js/slice-base@v0.0.1-esm/index.mjs';
 ```
 
 #### ns
@@ -85,7 +85,7 @@ The namespace contains the following:
 <script type="module">
 
 import objectKeys from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-keys@esm/index.mjs';
-import ns from 'https://cdn.jsdelivr.net/gh/stdlib-js/slice-base@esm/index.mjs';
+import ns from 'https://cdn.jsdelivr.net/gh/stdlib-js/slice-base@v0.0.1-esm/index.mjs';
 
 console.log( objectKeys( ns ) );
 
