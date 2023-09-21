@@ -45,7 +45,8 @@
     "@stdlib/slice-base-slice2seq": "^0.0.1",
     "@stdlib/slice-base-str2multislice": "github:stdlib-js/slice-base-str2multislice#main",
     "@stdlib/slice-base-str2slice": "github:stdlib-js/slice-base-str2slice#main",
-    "@stdlib/utils-define-read-only-property": "^0.0.8"
+    "@stdlib/utils-define-read-only-property": "^0.0.8",
+    "@stdlib/error-tools-fmtprodmsg": "^0.0.2"
   },
   "devDependencies": {
     "@stdlib/array-base-incrspace": "^0.0.2",
