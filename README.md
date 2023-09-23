@@ -74,6 +74,20 @@ The namespace contains the following:
 
 <!-- <toc pattern="*"> -->
 
+<div class="namespace-toc">
+
+-   <span class="signature">[`sliceLength( slice )`][@stdlib/slice/base/length]</span><span class="delimiter">: </span><span class="description">compute the number of elements in a normalized slice.</span>
+-   <span class="signature">[`normalizeMultiSlice( slice, shape, strict )`][@stdlib/slice/base/normalize-multi-slice]</span><span class="delimiter">: </span><span class="description">normalize a `MultiSlice` object.</span>
+-   <span class="signature">[`normalizeSlice( slice, len, strict )`][@stdlib/slice/base/normalize-slice]</span><span class="delimiter">: </span><span class="description">normalize a `Slice` object.</span>
+-   <span class="signature">[`seq2multislice( str, shape, strict )`][@stdlib/slice/base/seq2multislice]</span><span class="delimiter">: </span><span class="description">convert a multidimensional subsequence string to a `MultiSlice` object.</span>
+-   <span class="signature">[`seq2slice( str, len, strict )`][@stdlib/slice/base/seq2slice]</span><span class="delimiter">: </span><span class="description">convert a subsequence string to a `Slice` object.</span>
+-   <span class="signature">[`sliceShape( slice )`][@stdlib/slice/base/shape]</span><span class="delimiter">: </span><span class="description">compute the shape of a normalized multi-slice.</span>
+-   <span class="signature">[`slice2seq( str )`][@stdlib/slice/base/slice2seq]</span><span class="delimiter">: </span><span class="description">convert a `Slice` object to a subsequence string.</span>
+-   <span class="signature">[`str2multislice( str )`][@stdlib/slice/base/str2multislice]</span><span class="delimiter">: </span><span class="description">parse a string-serialized `MultiSlice` object.</span>
+-   <span class="signature">[`str2slice( str )`][@stdlib/slice/base/str2slice]</span><span class="delimiter">: </span><span class="description">parse a string-serialized `Slice` object.</span>
+
+</div>
+
 <!-- </toc> -->
 
 </section>
@@ -146,8 +160,8 @@ Copyright &copy; 2016-2023. The Stdlib [Authors][stdlib-authors].
 [npm-image]: http://img.shields.io/npm/v/@stdlib/slice-base.svg
 [npm-url]: https://npmjs.org/package/@stdlib/slice-base
 
-[test-image]: https://github.com/stdlib-js/slice-base/actions/workflows/test.yml/badge.svg?branch=v0.0.1
-[test-url]: https://github.com/stdlib-js/slice-base/actions/workflows/test.yml?query=branch:v0.0.1
+[test-image]: https://github.com/stdlib-js/slice-base/actions/workflows/test.yml/badge.svg?branch=v0.1.0
+[test-url]: https://github.com/stdlib-js/slice-base/actions/workflows/test.yml?query=branch:v0.1.0
 
 [coverage-image]: https://img.shields.io/codecov/c/github/stdlib-js/slice-base/main.svg
 [coverage-url]: https://codecov.io/github/stdlib-js/slice-base?branch=main
@@ -175,6 +189,28 @@ Copyright &copy; 2016-2023. The Stdlib [Authors][stdlib-authors].
 [branches-url]: https://github.com/stdlib-js/slice-base/blob/main/branches.md
 
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/slice-base/main/LICENSE
+
+<!-- <toc-links> -->
+
+[@stdlib/slice/base/length]: https://github.com/stdlib-js/slice-base-length
+
+[@stdlib/slice/base/normalize-multi-slice]: https://github.com/stdlib-js/slice-base-normalize-multi-slice
+
+[@stdlib/slice/base/normalize-slice]: https://github.com/stdlib-js/slice-base-normalize-slice
+
+[@stdlib/slice/base/seq2multislice]: https://github.com/stdlib-js/slice-base-seq2multislice
+
+[@stdlib/slice/base/seq2slice]: https://github.com/stdlib-js/slice-base-seq2slice
+
+[@stdlib/slice/base/shape]: https://github.com/stdlib-js/slice-base-shape
+
+[@stdlib/slice/base/slice2seq]: https://github.com/stdlib-js/slice-base-slice2seq
+
+[@stdlib/slice/base/str2multislice]: https://github.com/stdlib-js/slice-base-str2multislice
+
+[@stdlib/slice/base/str2slice]: https://github.com/stdlib-js/slice-base-str2slice
+
+<!-- </toc-links> -->
 
 </section>
 
