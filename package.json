@@ -36,12 +36,13 @@
     "url": "https://github.com/stdlib-js/stdlib/issues"
   },
   "dependencies": {
-    "@stdlib/slice-base-length": "github:stdlib-js/slice-base-length#main",
+    "@stdlib/slice-base-length": "^0.1.0",
+    "@stdlib/slice-base-nonreduced-dimensions": "github:stdlib-js/slice-base-nonreduced-dimensions#main",
     "@stdlib/slice-base-normalize-multi-slice": "^0.1.0",
     "@stdlib/slice-base-normalize-slice": "^0.1.0",
     "@stdlib/slice-base-seq2multislice": "^0.1.0",
     "@stdlib/slice-base-seq2slice": "^0.1.0",
-    "@stdlib/slice-base-shape": "github:stdlib-js/slice-base-shape#main",
+    "@stdlib/slice-base-shape": "^0.1.0",
     "@stdlib/slice-base-slice2seq": "^0.1.0",
     "@stdlib/slice-base-str2multislice": "^0.1.0",
     "@stdlib/slice-base-str2slice": "^0.1.0",
