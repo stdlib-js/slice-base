@@ -40,6 +40,7 @@
     "@stdlib/slice-base-nonreduced-dimensions": "github:stdlib-js/slice-base-nonreduced-dimensions#main",
     "@stdlib/slice-base-normalize-multi-slice": "^0.1.0",
     "@stdlib/slice-base-normalize-slice": "^0.1.0",
+    "@stdlib/slice-base-reduced-dimensions": "github:stdlib-js/slice-base-reduced-dimensions#main",
     "@stdlib/slice-base-seq2multislice": "^0.1.0",
     "@stdlib/slice-base-seq2slice": "^0.1.0",
     "@stdlib/slice-base-shape": "^0.1.0",
@@ -50,6 +51,7 @@
   },
   "devDependencies": {
     "@stdlib/array-base-incrspace": "^0.0.2",
+    "@stdlib/assert-is-array": "^0.1.0",
     "@stdlib/assert-is-multi-slice": "^0.1.0",
     "@stdlib/assert-is-nonnegative-integer": "^0.1.0",
     "@stdlib/assert-is-nonnegative-integer-array": "^0.1.0",
