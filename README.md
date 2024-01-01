@@ -35,38 +35,30 @@ limitations under the License.
 
 > Base slice namespace.
 
+<section class="installation">
 
+## Installation
+
+```bash
+npm install @stdlib/slice-base
+```
+
+Alternatively,
+
+-   To load the package in a website via a `script` tag without installation and bundlers, use the [ES Module][es-module] available on the [`esm` branch][esm-url].
+-   If you are using Deno, visit the [`deno` branch][deno-url].
+-   For use in Observable, or in browser/node environments, use the [Universal Module Definition (UMD)][umd] build available on the [`umd` branch][umd-url].
+
+The [branches.md][branches-url] file summarizes the available branches and displays a diagram illustrating their relationships.
+
+</section>
 
 <section class="usage">
 
 ## Usage
 
-To use in Observable,
-
 ```javascript
-ns = require( 'https://cdn.jsdelivr.net/gh/stdlib-js/slice-base@umd/browser.js' )
-```
-
-To vendor stdlib functionality and avoid installing dependency trees for Node.js, you can use the UMD server build:
-
-```javascript
-var ns = require( 'path/to/vendor/umd/slice-base/index.js' )
-```
-
-To include the bundle in a webpage,
-
-```html
-<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/slice-base@umd/browser.js"></script>
-```
-
-If no recognized module system is present, access bundle contents via the global scope:
-
-```html
-<script type="text/javascript">
-(function () {
-    window.ns;
-})();
-</script>
+var ns = require( '@stdlib/slice-base' );
 ```
 
 #### ns
@@ -114,21 +106,11 @@ The namespace contains the following:
 
 <!-- eslint no-undef: "error" -->
 
-```html
-<!DOCTYPE html>
-<html lang="en">
-<body>
-<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/utils-keys@umd/browser.js"></script>
-<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/slice-base@umd/browser.js"></script>
-<script type="text/javascript">
-(function () {
+```javascript
+var objectKeys = require( '@stdlib/utils-keys' );
+var ns = require( '@stdlib/slice-base' );
 
 console.log( objectKeys( ns ) );
-
-})();
-</script>
-</body>
-</html>
 ```
 
 </section>
@@ -169,7 +151,7 @@ See [LICENSE][stdlib-license].
 
 ## Copyright
 
-Copyright &copy; 2016-2023. The Stdlib [Authors][stdlib-authors].
+Copyright &copy; 2016-2024. The Stdlib [Authors][stdlib-authors].
 
 </section>
 
@@ -214,31 +196,31 @@ Copyright &copy; 2016-2023. The Stdlib [Authors][stdlib-authors].
 
 <!-- <toc-links> -->
 
-[@stdlib/slice/base/args2multislice]: https://github.com/stdlib-js/slice-base-args2multislice/tree/umd
+[@stdlib/slice/base/args2multislice]: https://github.com/stdlib-js/slice-base-args2multislice
 
-[@stdlib/slice/base/length]: https://github.com/stdlib-js/slice-base-length/tree/umd
+[@stdlib/slice/base/length]: https://github.com/stdlib-js/slice-base-length
 
-[@stdlib/slice/base/nonreduced-dimensions]: https://github.com/stdlib-js/slice-base-nonreduced-dimensions/tree/umd
+[@stdlib/slice/base/nonreduced-dimensions]: https://github.com/stdlib-js/slice-base-nonreduced-dimensions
 
-[@stdlib/slice/base/normalize-multi-slice]: https://github.com/stdlib-js/slice-base-normalize-multi-slice/tree/umd
+[@stdlib/slice/base/normalize-multi-slice]: https://github.com/stdlib-js/slice-base-normalize-multi-slice
 
-[@stdlib/slice/base/normalize-slice]: https://github.com/stdlib-js/slice-base-normalize-slice/tree/umd
+[@stdlib/slice/base/normalize-slice]: https://github.com/stdlib-js/slice-base-normalize-slice
 
-[@stdlib/slice/base/reduced-dimensions]: https://github.com/stdlib-js/slice-base-reduced-dimensions/tree/umd
+[@stdlib/slice/base/reduced-dimensions]: https://github.com/stdlib-js/slice-base-reduced-dimensions
 
-[@stdlib/slice/base/sargs2multislice]: https://github.com/stdlib-js/slice-base-sargs2multislice/tree/umd
+[@stdlib/slice/base/sargs2multislice]: https://github.com/stdlib-js/slice-base-sargs2multislice
 
-[@stdlib/slice/base/seq2multislice]: https://github.com/stdlib-js/slice-base-seq2multislice/tree/umd
+[@stdlib/slice/base/seq2multislice]: https://github.com/stdlib-js/slice-base-seq2multislice
 
-[@stdlib/slice/base/seq2slice]: https://github.com/stdlib-js/slice-base-seq2slice/tree/umd
+[@stdlib/slice/base/seq2slice]: https://github.com/stdlib-js/slice-base-seq2slice
 
-[@stdlib/slice/base/shape]: https://github.com/stdlib-js/slice-base-shape/tree/umd
+[@stdlib/slice/base/shape]: https://github.com/stdlib-js/slice-base-shape
 
-[@stdlib/slice/base/slice2seq]: https://github.com/stdlib-js/slice-base-slice2seq/tree/umd
+[@stdlib/slice/base/slice2seq]: https://github.com/stdlib-js/slice-base-slice2seq
 
-[@stdlib/slice/base/str2multislice]: https://github.com/stdlib-js/slice-base-str2multislice/tree/umd
+[@stdlib/slice/base/str2multislice]: https://github.com/stdlib-js/slice-base-str2multislice
 
-[@stdlib/slice/base/str2slice]: https://github.com/stdlib-js/slice-base-str2slice/tree/umd
+[@stdlib/slice/base/str2slice]: https://github.com/stdlib-js/slice-base-str2slice
 
 <!-- </toc-links> -->
 
