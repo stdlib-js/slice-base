@@ -37,6 +37,7 @@
   },
   "dependencies": {
     "@stdlib/slice-base-args2multislice": "^0.1.0",
+    "@stdlib/slice-base-int2slice": "github:stdlib-js/slice-base-int2slice#main",
     "@stdlib/slice-base-length": "^0.1.1",
     "@stdlib/slice-base-nonreduced-dimensions": "^0.1.1",
     "@stdlib/slice-base-normalize-multi-slice": "^0.1.0",
