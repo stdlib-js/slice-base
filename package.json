@@ -38,7 +38,7 @@
   "dependencies": {
     "@stdlib/slice-base-args2multislice": "^0.2.2",
     "@stdlib/slice-base-int2slice": "^0.2.2",
-    "@stdlib/slice-base-length": "^0.2.1",
+    "@stdlib/slice-base-length": "^0.2.2",
     "@stdlib/slice-base-nonreduced-dimensions": "^0.2.2",
     "@stdlib/slice-base-normalize-multi-slice": "^0.2.2",
     "@stdlib/slice-base-normalize-slice": "^0.2.2",
@@ -53,14 +53,14 @@
     "@stdlib/utils-define-read-only-property": "^0.2.2"
   },
   "devDependencies": {
-    "@stdlib/array-base-incrspace": "^0.2.1",
+    "@stdlib/array-base-incrspace": "^0.2.2",
     "@stdlib/assert-is-array": "^0.2.2",
     "@stdlib/assert-is-multi-slice": "^0.2.2",
     "@stdlib/assert-is-nonnegative-integer": "^0.2.2",
     "@stdlib/assert-is-nonnegative-integer-array": "^0.2.2",
     "@stdlib/assert-is-slice": "^0.2.2",
     "@stdlib/assert-is-string": "^0.2.2",
-    "@stdlib/math-base-special-ceil": "^0.2.1",
+    "@stdlib/math-base-special-ceil": "^0.2.2",
     "@stdlib/math-base-special-floor": "^0.2.3",
     "@stdlib/slice-ctor": "^0.2.2",
     "@stdlib/slice-multi": "^0.2.2",
