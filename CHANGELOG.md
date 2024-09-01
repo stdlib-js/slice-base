@@ -4,73 +4,21 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-08-03)
+## Unreleased (2024-09-01)
 
-<section class="packages">
-
-### Packages
-
-</section>
-
-<!-- /.packages -->
-
-<section class="commits">
-
-### Commits
-
-<details>
-
-</details>
-
-</section>
-
-<!-- /.commits -->
+No changes reported for this release.
 
 </section>
 
 <!-- /.release -->
+
+<section class="release" id="v0.2.2">
 
 ## 0.2.2 (2024-07-28)
 
 <section class="packages">
 
 ### Packages
-
-<section class="package" id="slice-base-sargs2multislice-v0.2.2">
-
-#### [@stdlib/slice/base/sargs2multislice](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/slice/base/sargs2multislice)
-
-<details>
-
-No changes reported for this release.</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="slice-base-seq2multislice-v0.2.2">
-
-#### [@stdlib/slice/base/seq2multislice](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/slice/base/seq2multislice)
-
-<details>
-
-No changes reported for this release.</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="slice-base-seq2slice-v0.2.2">
-
-#### [@stdlib/slice/base/seq2slice](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/slice/base/seq2slice)
-
-<details>
-
-No changes reported for this release.</details>
-
-</section>
-
-<!-- /.package -->
 
 </section>
 
@@ -104,6 +52,12 @@ A total of 1 person contributed to this release. Thank you to this contributor:
 
 <!-- /.commits -->
 
+</section>
+
+<!-- /.release -->
+
+<section class="release" id="v0.2.1">
+
 ## 0.2.1 (2024-02-24)
 
 <section class="packages">
@@ -130,8 +84,7 @@ A total of 1 person contributed to this release. Thank you to this contributor:
 
 ##### BREAKING CHANGES
 
--   [`0adcae5`](https://github.com/stdlib-js/stdlib/commit/0adcae51386086e2ef5fb5d78402389cff776deb): update namespace TypeScript declarations
--   [`0adcae5`](https://github.com/stdlib-js/stdlib/commit/0adcae51386086e2ef5fb5d78402389cff776deb): rename exported aliases 
+-   [`0adcae5`](https://github.com/stdlib-js/stdlib/commit/0adcae51386086e2ef5fb5d78402389cff776deb): rename exported aliases
 
     -   To migrate, users should consult the relevant namespace documentation and associated commits in order to determine which aliases have been renamed.
 
@@ -153,8 +106,7 @@ A total of 1 person contributed to this release. Thank you to this contributor:
 
 ### BREAKING CHANGES
 
--   [`0adcae5`](https://github.com/stdlib-js/stdlib/commit/0adcae51386086e2ef5fb5d78402389cff776deb): update namespace TypeScript declarations
--   [`0adcae5`](https://github.com/stdlib-js/stdlib/commit/0adcae51386086e2ef5fb5d78402389cff776deb): rename exported aliases 
+-   [`0adcae5`](https://github.com/stdlib-js/stdlib/commit/0adcae51386086e2ef5fb5d78402389cff776deb): rename exported aliases
 
     -   To migrate, users should consult the relevant namespace documentation and associated commits in order to determine which aliases have been renamed.
 
@@ -188,6 +140,12 @@ A total of 1 person contributed to this release. Thank you to this contributor:
 </section>
 
 <!-- /.commits -->
+
+</section>
+
+<!-- /.release -->
+
+<section class="release" id="v0.2.0">
 
 ## 0.2.0 (2024-02-14)
 
@@ -263,126 +221,6 @@ A total of 1 person contributed to this release. Thank you to this contributor:
 
 <!-- /.package -->
 
-<section class="package" id="slice-base-length-v0.2.0">
-
-#### [@stdlib/slice/base/length](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/slice/base/length)
-
-<details>
-
-No changes reported for this release.</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="slice-base-nonreduced-dimensions-v0.2.0">
-
-#### [@stdlib/slice/base/nonreduced-dimensions](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/slice/base/nonreduced-dimensions)
-
-<details>
-
-No changes reported for this release.</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="slice-base-normalize-multi-slice-v0.2.0">
-
-#### [@stdlib/slice/base/normalize-multi-slice](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/slice/base/normalize-multi-slice)
-
-<details>
-
-No changes reported for this release.</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="slice-base-normalize-slice-v0.2.0">
-
-#### [@stdlib/slice/base/normalize-slice](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/slice/base/normalize-slice)
-
-<details>
-
-No changes reported for this release.</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="slice-base-reduced-dimensions-v0.2.0">
-
-#### [@stdlib/slice/base/reduced-dimensions](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/slice/base/reduced-dimensions)
-
-<details>
-
-No changes reported for this release.</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="slice-base-sargs2multislice-v0.2.0">
-
-#### [@stdlib/slice/base/sargs2multislice](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/slice/base/sargs2multislice)
-
-<details>
-
-No changes reported for this release.</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="slice-base-seq2multislice-v0.2.0">
-
-#### [@stdlib/slice/base/seq2multislice](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/slice/base/seq2multislice)
-
-<details>
-
-No changes reported for this release.</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="slice-base-shape-v0.2.0">
-
-#### [@stdlib/slice/base/shape](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/slice/base/shape)
-
-<details>
-
-No changes reported for this release.</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="slice-base-slice2seq-v0.2.0">
-
-#### [@stdlib/slice/base/slice2seq](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/slice/base/slice2seq)
-
-<details>
-
-No changes reported for this release.</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="slice-base-str2multislice-v0.2.0">
-
-#### [@stdlib/slice/base/str2multislice](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/slice/base/str2multislice)
-
-<details>
-
-No changes reported for this release.</details>
-
-</section>
-
-<!-- /.package -->
-
 </section>
 
 <!-- /.packages -->
@@ -426,6 +264,12 @@ A total of 2 people contributed to this release. Thank you to the following cont
 </section>
 
 <!-- /.commits -->
+
+</section>
+
+<!-- /.release -->
+
+<section class="release" id="v0.1.1">
 
 ## 0.1.1 (2023-10-10)
 
@@ -523,18 +367,6 @@ A total of 2 people contributed to this release. Thank you to the following cont
 
 <!-- /.package -->
 
-<section class="package" id="slice-base-str2multislice-v0.1.1">
-
-#### [@stdlib/slice/base/str2multislice](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/slice/base/str2multislice)
-
-<details>
-
-No changes reported for this release.</details>
-
-</section>
-
-<!-- /.package -->
-
 </section>
 
 <!-- /.packages -->
@@ -574,6 +406,12 @@ A total of 1 person contributed to this release. Thank you to this contributor:
 </section>
 
 <!-- /.commits -->
+
+</section>
+
+<!-- /.release -->
+
+<section class="release" id="v0.1.0">
 
 ## 0.1.0 (2023-09-23)
 
@@ -633,6 +471,12 @@ A total of 1 person contributed to this release. Thank you to this contributor:
 </section>
 
 <!-- /.commits -->
+
+</section>
+
+<!-- /.release -->
+
+<section class="release" id="v0.0.1">
 
 ## 0.0.1 (2023-09-21)
 
@@ -724,10 +568,9 @@ A total of 1 person contributed to this release. Thank you to this contributor:
 ##### BREAKING CHANGES
 
 -   [`82dea00`](https://github.com/stdlib-js/stdlib/commit/82dea00133a02b5fa3ca4638b390f920003e8a5d): rename error codes
--   [`82dea00`](https://github.com/stdlib-js/stdlib/commit/82dea00133a02b5fa3ca4638b390f920003e8a5d): rename error codes 
 
     -   To migrate, if users were checking for particular error codes, they
-    should add the `SLICE_` prefix to their checks.
+        should add the `SLICE_` prefix to their checks.
 
 </section>
 
@@ -761,10 +604,9 @@ A total of 1 person contributed to this release. Thank you to this contributor:
 ##### BREAKING CHANGES
 
 -   [`82dea00`](https://github.com/stdlib-js/stdlib/commit/82dea00133a02b5fa3ca4638b390f920003e8a5d): rename error codes
--   [`82dea00`](https://github.com/stdlib-js/stdlib/commit/82dea00133a02b5fa3ca4638b390f920003e8a5d): rename error codes 
 
     -   To migrate, if users were checking for particular error codes, they
-    should add the `SLICE_` prefix to their checks.
+        should add the `SLICE_` prefix to their checks.
 
 </section>
 
@@ -831,10 +673,9 @@ A total of 1 person contributed to this release. Thank you to this contributor:
 ##### BREAKING CHANGES
 
 -   [`82dea00`](https://github.com/stdlib-js/stdlib/commit/82dea00133a02b5fa3ca4638b390f920003e8a5d): rename error codes
--   [`82dea00`](https://github.com/stdlib-js/stdlib/commit/82dea00133a02b5fa3ca4638b390f920003e8a5d): rename error codes 
 
     -   To migrate, if users were checking for particular error codes, they
-    should add the `SLICE_` prefix to their checks.
+        should add the `SLICE_` prefix to their checks.
 
 </section>
 
@@ -953,10 +794,9 @@ A total of 1 person contributed to this release. Thank you to this contributor:
 ### BREAKING CHANGES
 
 -   [`82dea00`](https://github.com/stdlib-js/stdlib/commit/82dea00133a02b5fa3ca4638b390f920003e8a5d): rename error codes
--   [`82dea00`](https://github.com/stdlib-js/stdlib/commit/82dea00133a02b5fa3ca4638b390f920003e8a5d): rename error codes 
 
     -   To migrate, if users were checking for particular error codes, they
-    should add the `SLICE_` prefix to their checks.
+        should add the `SLICE_` prefix to their checks.
 
 </section>
 
@@ -1020,4 +860,8 @@ A total of 1 person contributed to this release. Thank you to this contributor:
 </section>
 
 <!-- /.commits -->
+
+</section>
+
+<!-- /.release -->
 
