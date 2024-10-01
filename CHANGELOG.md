@@ -4,9 +4,42 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-09-01)
+## Unreleased (2024-10-01)
 
-No changes reported for this release.
+<section class="packages">
+
+### Packages
+
+</section>
+
+<!-- /.packages -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Philipp Burckhardt
+
+</section>
+
+<!-- /.contributors -->
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`7b02c16`](https://github.com/stdlib-js/stdlib/commit/7b02c160d8c9ecf6742ea0178c733f938e0c94c4) - **chore:** minor clean-up _(by Philipp Burckhardt)_
+-   [`f387603`](https://github.com/stdlib-js/stdlib/commit/f387603e739f88a38af3263ce6ff675ad903ee8c) - **docs:** consistently use declarative instead of imperative sentences outside of intros _(by Philipp Burckhardt)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
 
 </section>
 
