@@ -4,27 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-12-30)
-
-<section class="packages">
-
-### Packages
-
-</section>
-
-<!-- /.packages -->
-
-<section class="contributors">
-
-### Contributors
-
-A total of 1 person contributed to this release. Thank you to this contributor:
-
--   Philipp Burckhardt
-
-</section>
-
-<!-- /.contributors -->
+## Unreleased (2025-05-26)
 
 <section class="commits">
 
@@ -32,6 +12,9 @@ A total of 1 person contributed to this release. Thank you to this contributor:
 
 <details>
 
+-   [`88e4c0a`](https://github.com/stdlib-js/stdlib/commit/88e4c0a78b9a33f5b74417de9a0eabca256803de) - **docs:** update related packages sections [(#5074)](https://github.com/stdlib-js/stdlib/pull/5074) _(by stdlib-bot)_
+-   [`769b921`](https://github.com/stdlib-js/stdlib/commit/769b921be1ac5285f0becdaaae27cace376ee124) - **docs:** update related packages sections [(#4638)](https://github.com/stdlib-js/stdlib/pull/4638) _(by stdlib-bot, Athan Reines)_
+-   [`bc279b5`](https://github.com/stdlib-js/stdlib/commit/bc279b5f310d68ca939e8c03de09ff23fbc4ae68) - **docs:** update related packages sections [(#4485)](https://github.com/stdlib-js/stdlib/pull/4485) _(by stdlib-bot, Philipp Burckhardt)_
 -   [`0d8ee2d`](https://github.com/stdlib-js/stdlib/commit/0d8ee2dd2425d7414487f65940dfc4c25c79ad1d) - **docs:** update related packages sections [(#4334)](https://github.com/stdlib-js/stdlib/pull/4334) _(by stdlib-bot)_
 -   [`c322b66`](https://github.com/stdlib-js/stdlib/commit/c322b6647751b73a9d0fe12bf5665e8e2243d4ca) - **docs:** update related packages sections [(#4070)](https://github.com/stdlib-js/stdlib/pull/4070) _(by stdlib-bot, Philipp Burckhardt)_
 -   [`b8c41df`](https://github.com/stdlib-js/stdlib/commit/b8c41df78cd2cdc9cd3c3c6b223759d32f4f6e14) - **docs:** update related packages sections [(#3915)](https://github.com/stdlib-js/stdlib/pull/3915) _(by stdlib-bot)_
@@ -48,6 +31,19 @@ A total of 1 person contributed to this release. Thank you to this contributor:
 
 <!-- /.commits -->
 
+<section class="contributors">
+
+### Contributors
+
+A total of 2 people contributed to this release. Thank you to the following contributors:
+
+-   Athan Reines
+-   Philipp Burckhardt
+
+</section>
+
+<!-- /.contributors -->
+
 </section>
 
 <!-- /.release -->
@@ -55,26 +51,6 @@ A total of 1 person contributed to this release. Thank you to this contributor:
 <section class="release" id="v0.2.2">
 
 ## 0.2.2 (2024-07-28)
-
-<section class="packages">
-
-### Packages
-
-</section>
-
-<!-- /.packages -->
-
-<section class="contributors">
-
-### Contributors
-
-A total of 1 person contributed to this release. Thank you to this contributor:
-
--   Philipp Burckhardt
-
-</section>
-
-<!-- /.contributors -->
 
 <section class="commits">
 
@@ -92,6 +68,18 @@ A total of 1 person contributed to this release. Thank you to this contributor:
 
 <!-- /.commits -->
 
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Philipp Burckhardt
+
+</section>
+
+<!-- /.contributors -->
+
 </section>
 
 <!-- /.release -->
@@ -100,47 +88,15 @@ A total of 1 person contributed to this release. Thank you to this contributor:
 
 ## 0.2.1 (2024-02-24)
 
-<section class="packages">
-
-### Packages
-
-<section class="package" id="slice-base-v0.2.1">
-
-#### [@stdlib/slice/base](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/slice/base)
-
-<details>
-
 <section class="features">
 
-##### Features
+### Features
 
 -   [`0adcae5`](https://github.com/stdlib-js/stdlib/commit/0adcae51386086e2ef5fb5d78402389cff776deb) - update namespace TypeScript declarations [(#1340)](https://github.com/stdlib-js/stdlib/pull/1340)
 
 </section>
 
 <!-- /.features -->
-
-<section class="breaking-changes">
-
-##### BREAKING CHANGES
-
--   [`0adcae5`](https://github.com/stdlib-js/stdlib/commit/0adcae51386086e2ef5fb5d78402389cff776deb): rename exported aliases
-
-    -   To migrate, users should consult the relevant namespace documentation and associated commits in order to determine which aliases have been renamed.
-
-</section>
-
-<!-- /.breaking-changes -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-</section>
-
-<!-- /.packages -->
 
 <section class="breaking-changes">
 
@@ -153,18 +109,6 @@ A total of 1 person contributed to this release. Thank you to this contributor:
 </section>
 
 <!-- /.breaking-changes -->
-
-<section class="contributors">
-
-### Contributors
-
-A total of 1 person contributed to this release. Thank you to this contributor:
-
--   Athan Reines
-
-</section>
-
-<!-- /.contributors -->
 
 <section class="commits">
 
@@ -181,6 +125,18 @@ A total of 1 person contributed to this release. Thank you to this contributor:
 
 <!-- /.commits -->
 
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Athan Reines
+
+</section>
+
+<!-- /.contributors -->
+
 </section>
 
 <!-- /.release -->
@@ -189,94 +145,19 @@ A total of 1 person contributed to this release. Thank you to this contributor:
 
 ## 0.2.0 (2024-02-14)
 
-<section class="packages">
-
-### Packages
-
-<section class="package" id="slice-base-v0.2.0">
-
-#### [@stdlib/slice/base](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/slice/base)
-
-<details>
-
 <section class="features">
 
-##### Features
+### Features
 
 -   [`b823b14`](https://github.com/stdlib-js/stdlib/commit/b823b1414591edbea4cdcd19311627383f3574cd) - add `int2slice` to namespace
+-   [`71c1bc4`](https://github.com/stdlib-js/stdlib/commit/71c1bc4470464745db08559cfd4b5a2bbea0997d) - add `slice/base/int2slice`
 -   [`7faffe3`](https://github.com/stdlib-js/stdlib/commit/7faffe325bbf186b14c3dfef621e9d4cc56b47ff) - update namespace TypeScript declarations [(#1122)](https://github.com/stdlib-js/stdlib/pull/1122)
 -   [`764149e`](https://github.com/stdlib-js/stdlib/commit/764149e6e1bd117726dfb70d311535373f05835c) - add `args2multislice` to namespace
-
-</section>
-
-<!-- /.features -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="slice-base-args2multislice-v0.2.0">
-
-#### [@stdlib/slice/base/args2multislice](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/slice/base/args2multislice)
-
-<details>
-
-<section class="features">
-
-##### Features
-
 -   [`a96ad2e`](https://github.com/stdlib-js/stdlib/commit/a96ad2ed14514cc054c4a2a1fcb582bcaf798aa6) - add `slice/base/args2multislice`
 
 </section>
 
 <!-- /.features -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="slice-base-int2slice-v0.2.0">
-
-#### [@stdlib/slice/base/int2slice](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/slice/base/int2slice)
-
-<details>
-
-<section class="features">
-
-##### Features
-
--   [`71c1bc4`](https://github.com/stdlib-js/stdlib/commit/71c1bc4470464745db08559cfd4b5a2bbea0997d) - add `slice/base/int2slice`
-
-</section>
-
-<!-- /.features -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-</section>
-
-<!-- /.packages -->
-
-<section class="contributors">
-
-### Contributors
-
-A total of 2 people contributed to this release. Thank you to the following contributors:
-
--   Athan Reines
--   Philipp Burckhardt
-
-</section>
-
-<!-- /.contributors -->
 
 <section class="commits">
 
@@ -305,6 +186,19 @@ A total of 2 people contributed to this release. Thank you to the following cont
 
 <!-- /.commits -->
 
+<section class="contributors">
+
+### Contributors
+
+A total of 2 people contributed to this release. Thank you to the following contributors:
+
+-   Athan Reines
+-   Philipp Burckhardt
+
+</section>
+
+<!-- /.contributors -->
+
 </section>
 
 <!-- /.release -->
@@ -313,115 +207,20 @@ A total of 2 people contributed to this release. Thank you to the following cont
 
 ## 0.1.1 (2023-10-10)
 
-<section class="packages">
-
-### Packages
-
-<section class="package" id="slice-base-v0.1.1">
-
-#### [@stdlib/slice/base](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/slice/base)
-
-<details>
-
 <section class="features">
 
-##### Features
+### Features
 
 -   [`277bfbc`](https://github.com/stdlib-js/stdlib/commit/277bfbc4da13943ff6e6e625d17e4793001edc86) - add `sargs2multislice` to namespace
+-   [`3a90e24`](https://github.com/stdlib-js/stdlib/commit/3a90e24c422825361969798c83a2c00ed91674fe) - add `slice/base/sargs2multislice`
 -   [`1ec2944`](https://github.com/stdlib-js/stdlib/commit/1ec2944cb8972efdb51feb1a63c40f80fb54e57b) - add `reducedDimensions` to namespace
+-   [`82bf60c`](https://github.com/stdlib-js/stdlib/commit/82bf60cfa5bf8e3f33b8558d41b699d3f30cd483) - add `slice/base/reduced-dimensions`
 -   [`92ccfd2`](https://github.com/stdlib-js/stdlib/commit/92ccfd22d9aacd8b9749aaa478dafb477fd4942f) - add `nonreducedDimensions` to namespace
-
-</section>
-
-<!-- /.features -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="slice-base-nonreduced-dimensions-v0.1.1">
-
-#### [@stdlib/slice/base/nonreduced-dimensions](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/slice/base/nonreduced-dimensions)
-
-<details>
-
-<section class="features">
-
-##### Features
-
 -   [`74b8842`](https://github.com/stdlib-js/stdlib/commit/74b88428ef2e3206add50d4d9f2710a2e4c12823) - add `slice/base/nonreduced-dimensions`
 
 </section>
 
 <!-- /.features -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="slice-base-reduced-dimensions-v0.1.1">
-
-#### [@stdlib/slice/base/reduced-dimensions](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/slice/base/reduced-dimensions)
-
-<details>
-
-<section class="features">
-
-##### Features
-
--   [`82bf60c`](https://github.com/stdlib-js/stdlib/commit/82bf60cfa5bf8e3f33b8558d41b699d3f30cd483) - add `slice/base/reduced-dimensions`
-
-</section>
-
-<!-- /.features -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="slice-base-sargs2multislice-v0.1.1">
-
-#### [@stdlib/slice/base/sargs2multislice](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/slice/base/sargs2multislice)
-
-<details>
-
-<section class="features">
-
-##### Features
-
--   [`3a90e24`](https://github.com/stdlib-js/stdlib/commit/3a90e24c422825361969798c83a2c00ed91674fe) - add `slice/base/sargs2multislice`
-
-</section>
-
-<!-- /.features -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-</section>
-
-<!-- /.packages -->
-
-<section class="contributors">
-
-### Contributors
-
-A total of 1 person contributed to this release. Thank you to this contributor:
-
--   Athan Reines
-
-</section>
-
-<!-- /.contributors -->
 
 <section class="commits">
 
@@ -447,44 +246,6 @@ A total of 1 person contributed to this release. Thank you to this contributor:
 
 <!-- /.commits -->
 
-</section>
-
-<!-- /.release -->
-
-<section class="release" id="v0.1.0">
-
-## 0.1.0 (2023-09-23)
-
-<section class="packages">
-
-### Packages
-
-<section class="package" id="slice-base-v0.1.0">
-
-#### [@stdlib/slice/base](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/slice/base)
-
-<details>
-
-<section class="features">
-
-##### Features
-
--   [`e18b248`](https://github.com/stdlib-js/stdlib/commit/e18b248464425863019a841795a7e5fc7d01d0ea) - update namespace TypeScript declarations [(#1100)](https://github.com/stdlib-js/stdlib/pull/1100)
-
-</section>
-
-<!-- /.features -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-</section>
-
-<!-- /.packages -->
-
 <section class="contributors">
 
 ### Contributors
@@ -496,6 +257,24 @@ A total of 1 person contributed to this release. Thank you to this contributor:
 </section>
 
 <!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
+<section class="release" id="v0.1.0">
+
+## 0.1.0 (2023-09-23)
+
+<section class="features">
+
+### Features
+
+-   [`e18b248`](https://github.com/stdlib-js/stdlib/commit/e18b248464425863019a841795a7e5fc7d01d0ea) - update namespace TypeScript declarations [(#1100)](https://github.com/stdlib-js/stdlib/pull/1100)
+
+</section>
+
+<!-- /.features -->
 
 <section class="commits">
 
@@ -512,6 +291,18 @@ A total of 1 person contributed to this release. Thank you to this contributor:
 
 <!-- /.commits -->
 
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Athan Reines
+
+</section>
+
+<!-- /.contributors -->
+
 </section>
 
 <!-- /.release -->
@@ -520,178 +311,29 @@ A total of 1 person contributed to this release. Thank you to this contributor:
 
 ## 0.0.1 (2023-09-21)
 
-<section class="packages">
-
-### Packages
-
-<section class="package" id="slice-base-v0.0.1">
-
-#### [@stdlib/slice/base](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/slice/base)
-
-<details>
-
 <section class="features">
 
-##### Features
+### Features
 
 -   [`16cf3fd`](https://github.com/stdlib-js/stdlib/commit/16cf3fd02a5658e95aaab45f8a7be16f24e20499) - add `seq2multislice` to namespace
--   [`d08b3c1`](https://github.com/stdlib-js/stdlib/commit/d08b3c1eb33a9597b75c1fdae301bea930c6b94e) - add `sliceShape` to namespace
--   [`d895c68`](https://github.com/stdlib-js/stdlib/commit/d895c68539d17788640fde521cbaab3d8acfb536) - add `sliceLength` to namespace
--   [`2b49372`](https://github.com/stdlib-js/stdlib/commit/2b49372a36ad2b4435e673ea74b3a973ae124174) - add `normalizeMultiSlice` to namespace
--   [`f04c363`](https://github.com/stdlib-js/stdlib/commit/f04c363e2d57bd22e3391a7235d3d20603962abf) - add `normalizeSlice` to namespace
--   [`a50b6b1`](https://github.com/stdlib-js/stdlib/commit/a50b6b1f7febc06bb95c64d09b6d321ed1120689) - add `slice2seq` to namespace
--   [`d75d35c`](https://github.com/stdlib-js/stdlib/commit/d75d35c24e762651d06425d596bce1dd618015c9) - add `str2multislice` to namespace
--   [`cc8c988`](https://github.com/stdlib-js/stdlib/commit/cc8c988ce4dfafa8f7ab01426642c7d068b5fa94) - add `str2slice` to namespace
--   [`58acf08`](https://github.com/stdlib-js/stdlib/commit/58acf089534f32316f9d111ca34cfb1f298be02f) - add `slice/base` namespace
-
-</section>
-
-<!-- /.features -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="slice-base-length-v0.0.1">
-
-#### [@stdlib/slice/base/length](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/slice/base/length)
-
-<details>
-
-<section class="features">
-
-##### Features
-
--   [`29ade00`](https://github.com/stdlib-js/stdlib/commit/29ade00a1961506c579aae2b29959927788fb094) - add `slice/base/length`
-
-</section>
-
-<!-- /.features -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="slice-base-normalize-multi-slice-v0.0.1">
-
-#### [@stdlib/slice/base/normalize-multi-slice](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/slice/base/normalize-multi-slice)
-
-<details>
-
-<section class="features">
-
-##### Features
-
--   [`82dea00`](https://github.com/stdlib-js/stdlib/commit/82dea00133a02b5fa3ca4638b390f920003e8a5d) - rename error codes
--   [`680a0d4`](https://github.com/stdlib-js/stdlib/commit/680a0d49e8ccce098ffb48712039cbbe8e2600dd) - add `slice/base/normalize-multi-slice`
-
-</section>
-
-<!-- /.features -->
-
-<section class="bug-fixes">
-
-##### Bug Fixes
-
--   [`dae16d6`](https://github.com/stdlib-js/stdlib/commit/dae16d60cb2c688804f04ed51c7d61a4f18bd859) - clamp to just after the last index when an integer exceeds index bounds
-
-</section>
-
-<!-- /.bug-fixes -->
-
-<section class="breaking-changes">
-
-##### BREAKING CHANGES
-
--   [`82dea00`](https://github.com/stdlib-js/stdlib/commit/82dea00133a02b5fa3ca4638b390f920003e8a5d): rename error codes
-
-    -   To migrate, if users were checking for particular error codes, they
-        should add the `SLICE_` prefix to their checks.
-
-</section>
-
-<!-- /.breaking-changes -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="slice-base-normalize-slice-v0.0.1">
-
-#### [@stdlib/slice/base/normalize-slice](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/slice/base/normalize-slice)
-
-<details>
-
-<section class="features">
-
-##### Features
-
--   [`82dea00`](https://github.com/stdlib-js/stdlib/commit/82dea00133a02b5fa3ca4638b390f920003e8a5d) - rename error codes
--   [`b3a05c7`](https://github.com/stdlib-js/stdlib/commit/b3a05c767164a958b55c4ec7c965c8d2a8e4e55c) - add `slice/base/normalize-slice`
-
-</section>
-
-<!-- /.features -->
-
-<section class="breaking-changes">
-
-##### BREAKING CHANGES
-
--   [`82dea00`](https://github.com/stdlib-js/stdlib/commit/82dea00133a02b5fa3ca4638b390f920003e8a5d): rename error codes
-
-    -   To migrate, if users were checking for particular error codes, they
-        should add the `SLICE_` prefix to their checks.
-
-</section>
-
-<!-- /.breaking-changes -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="slice-base-seq2multislice-v0.0.1">
-
-#### [@stdlib/slice/base/seq2multislice](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/slice/base/seq2multislice)
-
-<details>
-
-<section class="features">
-
-##### Features
-
 -   [`3bf733b`](https://github.com/stdlib-js/stdlib/commit/3bf733b4e758503442f10b69b85e2a239fa16a39) - add `slice/base/seq2multislice`
-
-</section>
-
-<!-- /.features -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="slice-base-seq2slice-v0.0.1">
-
-#### [@stdlib/slice/base/seq2slice](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/slice/base/seq2slice)
-
-<details>
-
-<section class="features">
-
-##### Features
-
 -   [`82dea00`](https://github.com/stdlib-js/stdlib/commit/82dea00133a02b5fa3ca4638b390f920003e8a5d) - rename error codes
+-   [`d08b3c1`](https://github.com/stdlib-js/stdlib/commit/d08b3c1eb33a9597b75c1fdae301bea930c6b94e) - add `sliceShape` to namespace
+-   [`10ef571`](https://github.com/stdlib-js/stdlib/commit/10ef5716399bd0ca7cf46964866a71d2abae2ef2) - add `slice/base/shape`
+-   [`d895c68`](https://github.com/stdlib-js/stdlib/commit/d895c68539d17788640fde521cbaab3d8acfb536) - add `sliceLength` to namespace
+-   [`29ade00`](https://github.com/stdlib-js/stdlib/commit/29ade00a1961506c579aae2b29959927788fb094) - add `slice/base/length`
+-   [`2b49372`](https://github.com/stdlib-js/stdlib/commit/2b49372a36ad2b4435e673ea74b3a973ae124174) - add `normalizeMultiSlice` to namespace
+-   [`680a0d4`](https://github.com/stdlib-js/stdlib/commit/680a0d49e8ccce098ffb48712039cbbe8e2600dd) - add `slice/base/normalize-multi-slice`
+-   [`f04c363`](https://github.com/stdlib-js/stdlib/commit/f04c363e2d57bd22e3391a7235d3d20603962abf) - add `normalizeSlice` to namespace
+-   [`b3a05c7`](https://github.com/stdlib-js/stdlib/commit/b3a05c767164a958b55c4ec7c965c8d2a8e4e55c) - add `slice/base/normalize-slice`
 -   [`2b7b89a`](https://github.com/stdlib-js/stdlib/commit/2b7b89a5a32eff54ded8003e85882b41ab7cea4d) - add support for performing bounds checking
+-   [`a50b6b1`](https://github.com/stdlib-js/stdlib/commit/a50b6b1f7febc06bb95c64d09b6d321ed1120689) - add `slice2seq` to namespace
+-   [`fb675fb`](https://github.com/stdlib-js/stdlib/commit/fb675fbc61cba0109a05cf2fb9025a96f387ef91) - add `slice/base/slice2seq`
+-   [`d75d35c`](https://github.com/stdlib-js/stdlib/commit/d75d35c24e762651d06425d596bce1dd618015c9) - add `str2multislice` to namespace
+-   [`88f5f72`](https://github.com/stdlib-js/stdlib/commit/88f5f726891a4bb0cf80c933db972499ca6e06dd) - add `slice/base/str2multislice`
+-   [`cc8c988`](https://github.com/stdlib-js/stdlib/commit/cc8c988ce4dfafa8f7ab01426642c7d068b5fa94) - add `str2slice` to namespace
+-   [`cabc1f3`](https://github.com/stdlib-js/stdlib/commit/cabc1f3d8c462feb2b7206f364a0a20db62c98a6) - add `slice/base/str2slice`
+-   [`58acf08`](https://github.com/stdlib-js/stdlib/commit/58acf089534f32316f9d111ca34cfb1f298be02f) - add `slice/base` namespace
 -   [`ac9f95d`](https://github.com/stdlib-js/stdlib/commit/ac9f95d502319645244d9ab049b59dac87a70069) - add `slice/base/seq2slice`
 
 </section>
@@ -700,134 +342,15 @@ A total of 1 person contributed to this release. Thank you to this contributor:
 
 <section class="bug-fixes">
 
-##### Bug Fixes
+### Bug Fixes
 
+-   [`983270f`](https://github.com/stdlib-js/stdlib/commit/983270f7296e7a1664b55cf85839b90b488b6765) - grammar
+-   [`dae16d6`](https://github.com/stdlib-js/stdlib/commit/dae16d60cb2c688804f04ed51c7d61a4f18bd859) - clamp to just after the last index when an integer exceeds index bounds
 -   [`f0bc593`](https://github.com/stdlib-js/stdlib/commit/f0bc593d67014942fd0ffbbc21c6fc159008e3b8) - account for negative increment when clamping a starting index
 
 </section>
 
 <!-- /.bug-fixes -->
-
-<section class="breaking-changes">
-
-##### BREAKING CHANGES
-
--   [`82dea00`](https://github.com/stdlib-js/stdlib/commit/82dea00133a02b5fa3ca4638b390f920003e8a5d): rename error codes
-
-    -   To migrate, if users were checking for particular error codes, they
-        should add the `SLICE_` prefix to their checks.
-
-</section>
-
-<!-- /.breaking-changes -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="slice-base-shape-v0.0.1">
-
-#### [@stdlib/slice/base/shape](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/slice/base/shape)
-
-<details>
-
-<section class="features">
-
-##### Features
-
--   [`10ef571`](https://github.com/stdlib-js/stdlib/commit/10ef5716399bd0ca7cf46964866a71d2abae2ef2) - add `slice/base/shape`
-
-</section>
-
-<!-- /.features -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="slice-base-slice2seq-v0.0.1">
-
-#### [@stdlib/slice/base/slice2seq](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/slice/base/slice2seq)
-
-<details>
-
-<section class="features">
-
-##### Features
-
--   [`fb675fb`](https://github.com/stdlib-js/stdlib/commit/fb675fbc61cba0109a05cf2fb9025a96f387ef91) - add `slice/base/slice2seq`
-
-</section>
-
-<!-- /.features -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="slice-base-str2multislice-v0.0.1">
-
-#### [@stdlib/slice/base/str2multislice](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/slice/base/str2multislice)
-
-<details>
-
-<section class="features">
-
-##### Features
-
--   [`88f5f72`](https://github.com/stdlib-js/stdlib/commit/88f5f726891a4bb0cf80c933db972499ca6e06dd) - add `slice/base/str2multislice`
-
-</section>
-
-<!-- /.features -->
-
-<section class="bug-fixes">
-
-##### Bug Fixes
-
--   [`983270f`](https://github.com/stdlib-js/stdlib/commit/983270f7296e7a1664b55cf85839b90b488b6765) - grammar
-
-</section>
-
-<!-- /.bug-fixes -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="slice-base-str2slice-v0.0.1">
-
-#### [@stdlib/slice/base/str2slice](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/slice/base/str2slice)
-
-<details>
-
-<section class="features">
-
-##### Features
-
--   [`cabc1f3`](https://github.com/stdlib-js/stdlib/commit/cabc1f3d8c462feb2b7206f364a0a20db62c98a6) - add `slice/base/str2slice`
-
-</section>
-
-<!-- /.features -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-</section>
-
-<!-- /.packages -->
 
 <section class="breaking-changes">
 
@@ -841,18 +364,6 @@ A total of 1 person contributed to this release. Thank you to this contributor:
 </section>
 
 <!-- /.breaking-changes -->
-
-<section class="contributors">
-
-### Contributors
-
-A total of 1 person contributed to this release. Thank you to this contributor:
-
--   Athan Reines
-
-</section>
-
-<!-- /.contributors -->
 
 <section class="commits">
 
@@ -900,6 +411,18 @@ A total of 1 person contributed to this release. Thank you to this contributor:
 </section>
 
 <!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Athan Reines
+
+</section>
+
+<!-- /.contributors -->
 
 </section>
 
