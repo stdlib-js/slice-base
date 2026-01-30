@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/slice-base",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "Base slice namespace.",
   "license": "Apache-2.0",
   "author": {
@@ -92,7 +92,6 @@
     "slice",
     "base"
   ],
-  "__stdlib__": {},
   "funding": {
     "type": "opencollective",
     "url": "https://opencollective.com/stdlib"
