@@ -42,13 +42,18 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import ns from 'https://cdn.jsdelivr.net/gh/stdlib-js/slice-base@esm/index.mjs';
+```
+The previous example will load the latest bundled code from the esm branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/slice-base/tags). For example,
+
+```javascript
 import ns from 'https://cdn.jsdelivr.net/gh/stdlib-js/slice-base@v0.2.3-esm/index.mjs';
 ```
 
 You can also import the following named exports from the package:
 
 ```javascript
-import { args2multislice, int2slice, nonreducedDimensions, normalizeMultiSlice, normalizeSlice, reducedDimensions, sargs2multislice, seq2multislice, seq2slice, slice2seq, sliceLength, sliceShape, str2multislice, str2slice } from 'https://cdn.jsdelivr.net/gh/stdlib-js/slice-base@v0.2.3-esm/index.mjs';
+import { args2multislice, int2slice, nonreducedDimensions, normalizeMultiSlice, normalizeSlice, reducedDimensions, sargs2multislice, seq2multislice, seq2slice, slice2seq, sliceLength, sliceShape, str2multislice, str2slice } from 'https://cdn.jsdelivr.net/gh/stdlib-js/slice-base@esm/index.mjs';
 ```
 
 #### ns
@@ -104,7 +109,7 @@ The namespace contains the following:
 <script type="module">
 
 import objectKeys from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-keys@esm/index.mjs';
-import ns from 'https://cdn.jsdelivr.net/gh/stdlib-js/slice-base@v0.2.3-esm/index.mjs';
+import ns from 'https://cdn.jsdelivr.net/gh/stdlib-js/slice-base@esm/index.mjs';
 
 console.log( objectKeys( ns ) );
 
