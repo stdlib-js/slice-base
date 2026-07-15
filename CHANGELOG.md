@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-06-03)
+## Unreleased (2026-07-15)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`71f4c29`](https://github.com/stdlib-js/stdlib/commit/71f4c292794a8e998319756da25e5c041f2b8e64) - **refactor:** rename internal variable [(#13005)](https://github.com/stdlib-js/stdlib/pull/13005) _(by Philipp Burckhardt)_
 -   [`9bd779b`](https://github.com/stdlib-js/stdlib/commit/9bd779b6861c3cd6eed1aead5cea15debc43407f) - **bench:** refactor to use string interpolation in `slice` [(#11590)](https://github.com/stdlib-js/stdlib/pull/11590) _(by Karan Anand)_
 
 </details>
@@ -24,9 +25,10 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
 -   Karan Anand
+-   Philipp Burckhardt
 
 </section>
 
